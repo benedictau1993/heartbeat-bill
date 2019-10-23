@@ -20,3 +20,7 @@ The static data files `rural.csv` and `usnewsrank.csv` are required in the compl
 #### Deployment
 
 Fork this repository and open `abortion.ipynb` in Jupyter Lab. 
+
+#### Preview
+
+Preview the `abortion.ipynb` notebook by viewing the `abortion.html` export. 
