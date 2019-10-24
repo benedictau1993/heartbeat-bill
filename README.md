@@ -23,4 +23,4 @@ Fork this repository and open `abortion.ipynb` in Jupyter Lab.
 
 #### Preview
 
-Preview the `abortion.ipynb` notebook by viewing the `abortion.html` export. 
+Preview the `abortion.ipynb` notebook by clicking [here](https://htmlpreview.github.io/?https://github.com/benedictau1993/heartbeat-bill/blob/master/abortion.html).
