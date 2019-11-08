@@ -1,4 +1,4 @@
-## Geopandas Dataviz: State Demographics and the Heartbeat Bill
+## Hello World of Geopandas Dataviz: State Demographics and the Heartbeat Bill
 
 Georgia Gov. Brian Kemp in early May 2019 signed into law a so-called “heartbeat” bill, banning abortion as early as six weeks into pregnancy. This mini-project aims to use `geopandas` to visualise US state demographics by first scraping state-level data from Wikipedia for up-to-date numbers with `BeautifulSoup` to create choropleth maps. I consider education attainment rates, US House Rep/Dem seats, religiosity, maternal mortality rate, urbanisation rate, and higher education rankings. 
 
